@@ -1,0 +1,29 @@
+1. Show the project running on your server.
+ANS: http://rashrafi.techlaunch.online/React-Weather-App/
+
+2.Show the most important sections of your code from GitHub.
+ANS: 
+
+https://github.com/rasifashrafi/React_Weather_App/blob/master/src/App.js,
+
+https://github.com/rasifashrafi/React_Weather_App/blob/master/src/components/current_location.js,
+
+https://github.com/rasifashrafi/React_Weather_App/blob/master/src/components/location.js
+
+This three files are most important for my project.
+
+3. Prepare and answer the following questions:
+	1. What lessons did you learn doing the project?
+	ANS: I have learned a lot about "setState()" in react.
+
+	2. What would you do differently?
+	ANS: I have showed weather seraching by contry.
+	
+	3. How the skills you learned can be applied elsewhere?
+	ANS: Now I can do "map()" and "setSate()" functions which is very necessery for any project.
+
+	4. What was the hardest and easiest part of the project?
+	ANS: "setState()" funtion was the hardest part for me, and component making was the easiest part for me.
+
+4. Invite the professor and students to ask questions.
+ANS: Thanks a lot. 
